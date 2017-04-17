@@ -1,2 +1,3 @@
-v0.0.1<br>
-[stock](stock)
+v0.1.0<br>
+[stock](stock)<br>
+[highcharts](highcharts)<br>
